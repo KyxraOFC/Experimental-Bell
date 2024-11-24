@@ -1,11 +1,11 @@
-  /** !-======[ Experimentall ▪︎ Bell🦋 ]======-!
-      * Coding by @rifza.p.p *     
+  /** !-======[ Experimentall ▪︎ Kayra🦋 ]======-!
+      * Coding by @Kyxra.p.p *     
       
       🩵 Follow ️me on :
-      ▪︎ https://youtube.com/@rifza  
-      ▪︎ https://github.com/Rifza123
-      ▪︎ https://instagram.com/rifza.p.p?igshid=ZGUzMzM3NWJiOQ==
-      ▪︎ https://www.threads.net/@rifza.p.p
+      ▪︎ https://youtube.com/@kyxra  
+      ▪︎ https://github.com/KyxraOFC
+      ▪︎ https://instagram.com/Kyxra.p.p?igshid=ZGUzMzM3NWJiOQ==
+      ▪︎ https://www.threads.net/@Kyxra.p.p
       ▪︎ https://xterm.tech
   */
 /*!-======[ Preparing Configuration ]======-!*/
